@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334015156742",
+    "project_id": "student-calendar-mis-project",
+    "storage_bucket": "student-calendar-mis-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334015156742:android:8cea2ce353c1d35d616987",
+        "android_client_info": {
+          "package_name": "calendar.com.student_calendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VVehez91pnmWgqJ1Xr6cEbvewy0YRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
